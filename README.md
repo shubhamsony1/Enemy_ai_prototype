@@ -18,11 +18,8 @@
 
 
 * Unity's nav mesh is used for pathfinding and navigation for enemy ai movement mechanics.
-* 
 * AI behavior is structured around logical states such as Patrol, Investigate, Chase and Attack.
-* 
 * Instead of detecting the player instantly i used raycast so ai can only use angled perception to detect player in a particular distance.
-* 
 * A noise system is implemented so that enemies can react to sounds.
 
 

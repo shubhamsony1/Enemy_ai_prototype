@@ -303,7 +303,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 231.8
     height: 690.8
   m_SerializedDataModeController:
@@ -404,8 +404,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 232.8
-    y: 79.200005
+    x: 1
+    y: 24
     width: 709.2
     height: 367.6
   m_SerializedDataModeController:
@@ -477,7 +477,7 @@ MonoBehaviour:
       height: 346.6
     m_MinimalGUI: 1
   m_defaultScale: 0.4011574
-  m_LastWindowPixelSize: {x: 886.5, y: 459.5}
+  m_LastWindowPixelSize: {x: 709.2, y: 367.6}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -505,8 +505,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 232.8
-    y: 472.80002
+    x: 1
+    y: 417.6
     width: 709.2
     height: 297.19998
   m_SerializedDataModeController:
@@ -1202,8 +1202,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 944
-    y: 79.200005
+    x: 945
+    y: 24
     width: 135.59998
     height: 690.8
   m_SerializedDataModeController:
@@ -1251,8 +1251,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1081.6
-    y: 79.200005
+    x: 1082.6
+    y: 24
     width: 453.40002
     height: 690.8
   m_SerializedDataModeController:
@@ -1296,7 +1296,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 22b20000
     m_LastClickedID: 45602
-    m_ExpandedIDs: 0000000022b2000024b2000026b2000028b200002ab2000000ca9a3b
+    m_ExpandedIDs: 0000000022b2000024b2000026b2000028b200002ab20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
